@@ -1,6 +1,9 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/3JwiE5WX)
 # Ejercicios Básicos de Linux para Iniciarse en el Mundo de DevOps
 
+
+Contribucion desde usaurio a main repo
+
 ¡Bienvenido/a a los ejercicios básicos de Linux para iniciarse en el mundo de DevOps!
 
 Este repositorio contiene una serie de ejercicios diseñados para ayudarte a familiarizarte con el sistema operativo Linux y desarrollar habilidades fundamentales para el trabajo en el campo de DevOps. Los ejercicios cubren una variedad de temas, desde comandos básicos de Linux hasta tareas más avanzadas relacionadas con la automatización y el despliegue de aplicaciones.
