@@ -1,6 +1,6 @@
 # Ejercicios Básicos de Linux para Iniciarse en el Mundo de DevOps
 
-Error en el código sorry
+Error en el código sorry, que va
 
 ¡Bienvenido/a a los ejercicios básicos de Linux para iniciarse en el mundo de DevOps!
 
