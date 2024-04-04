@@ -1,5 +1,7 @@
 # Ejercicios Básicos de Linux para Iniciarse en el Mundo de DevOps
 
+Error en el código sorry
+
 ¡Bienvenido/a a los ejercicios básicos de Linux para iniciarse en el mundo de DevOps!
 
 Este repositorio contiene una serie de ejercicios diseñados para ayudarte a familiarizarte con el sistema operativo Linux y desarrollar habilidades fundamentales para el trabajo en el campo de DevOps. Los ejercicios cubren una variedad de temas, desde comandos básicos de Linux hasta tareas más avanzadas relacionadas con la automatización y el despliegue de aplicaciones.
