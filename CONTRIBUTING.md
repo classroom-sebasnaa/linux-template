@@ -1,23 +1,30 @@
-# Contribución a los Ejercicios de Linux para DevOps
+# Contribuir
+Cuando contribuya a este repositorio, por favor, primero discuta el cambio que desea hacer a través de issue, correo electrónico, o cualquier otro método con los propietarios de este repositorio antes de hacer un cambio. 
 
-¡Gracias por tu interés en contribuir a este repositorio con tus soluciones a los ejercicios de Linux para DevOps!
+Tenga en cuenta que tenemos un código de conducta, por favor, sígalo en todas sus interacciones con el proyecto.
 
-## Cómo Contribuir
+## Proceso de Pull Request
 
-1. Clona este repositorio a tu máquina local: `git clone <URL del repositorio>`.
-2. Completa los ejercicios según las instrucciones proporcionadas en la carpeta `enunciados`.
-3. Asegúrate de seguir las mejores prácticas de desarrollo y documentación.
-4. Realiza commit de tus cambios y súbelos al repositorio en tu cuenta de GitHub utilizando la rama proporcionada por GitHub Classroom.
-5. Abre un Pull Request (PR) desde la rama de tu repositorio a la rama `main` del repositorio original.
-6. Proporciona una descripción detallada de los cambios que has realizado y menciona los ejercicios que has completado.
-7. Siempre envía tu PR antes de la fecha límite especificada para la entrega de los ejercicios.
+1. Asegurar todas las validaciones y pruebas en un espacio de trabajo local antes de iniciar el proceso de pull request.
 
-## Entrega Automática de Ejercicios
+2. Actualizar el README.md con detalles de los cambios en la interfaz, esto incluye nuevas variables de entorno, puertos expuestos, ubicaciones de archivos útiles y parámetros del contenedor.
 
-En caso de que no envíes tus soluciones antes de la fecha límite, se generará automáticamente una Pull Request desde el repositorio principal con tu contenido actual. Sin embargo, te recomendamos encarecidamente que envíes tus soluciones antes de la fecha límite para tener la oportunidad de revisar y mejorar tu trabajo antes de la entrega final.
+3. Puede fusionar la Pull Request una vez que tenga el visto bueno de otros dos desarrolladores, o si no tiene permiso para hacerlo, puede solicitar al segundo revisor que la fusione por usted.
 
-## ¿Necesitas Ayuda?
+## Código de conducta
 
-Si tienes alguna pregunta sobre los ejercicios o encuentras algún problema, no dudes en abrir un issue en este repositorio para que podamos ayudarte.
+### Nuestro compromiso
+
+En el interés de fomentar un entorno abierto y acogedor, nosotros, como colaboradores y mantenedores, nos comprometemos a hacer de la participación en nuestro proyecto y nuestra comunidad una experiencia libre de acoso para todos, independientemente de la edad, el tamaño corporal, la discapacidad, el origen étnico, la identidad y expresión de género, el nivel de experiencia, la nacionalidad, la apariencia personal, la raza, la religión o la identidad y orientación sexuales.
+
+Algunos ejemplos de comportamiento inaceptable por parte de los participantes son:
+
+* El uso de lenguaje o imágenes sexualizados y la atención o insinuaciones sexuales no deseadas.
+* Trolling, comentarios insultantes o despectivos y ataques personales o políticos.
+* Acoso público o privado.
+* Publicar información privada de otros, como una dirección física o electrónica, sin permiso explícito.
+* Otras conductas que puedan considerarse razonablemente inapropiadas en un entorno profesional.
+
+
 
 ¡Esperamos ver tus contribuciones pronto!
